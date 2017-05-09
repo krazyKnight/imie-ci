@@ -7,6 +7,8 @@ namespace SimilarText;
  *
  * Thanks to: http://php.net/manual/fr/function.levenshtein.php#113702
  */
+
+// la classe qui trouve des trucs
 class Finder
 {
     /**
